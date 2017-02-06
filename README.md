@@ -39,15 +39,13 @@ One Signal Sharp is a software library which aims to simplify the operations on 
 ### Todos
 
  - Write Tests
- - Parse server response as a Model
- - Add Night Mode
- - Add Appearance
- - Add Delivery
- - Add Grouping & Collapsing
- - Add Platform to Deliver To
+ - Parse server response as an object
+ - Add Support for Tweet Appearance
+ - Add Support for a specific delivery
+ - Add Support for Grouping & Collapsing
+ - Add Support to deliver to a specific platform
  
 ### License
-----
 MIT
 
 
