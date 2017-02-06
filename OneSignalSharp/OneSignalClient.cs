@@ -169,8 +169,6 @@ namespace OneSignalSharp
         }
 
 
-
-
         private string SendRequest(string Link, string Method, string AuthorizationCode, IDictionary<String, Object> dynObject)
         {
             var request = WebRequest.Create(Link) as HttpWebRequest;
