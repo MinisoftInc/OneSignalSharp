@@ -45,10 +45,8 @@ One Signal Sharp is a software library which aims to simplify the operations on 
  - Add Delivery
  - Add Grouping & Collapsing
  - Add Platform to Deliver To
- - 
 License
 ----
-
 MIT
 
 
