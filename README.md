@@ -17,6 +17,7 @@ One Signal Sharp is a software library which aims to simplify the operations on 
   - Refrenece the dll in your project.
   -  In most cases you will work with an existing app so create a new app in your account. Here is a [refrence]( https://documentation.onesignal.com/docs/mobile-sdk-setup)
   -  Initialize a OneSignalClient Object
+  - All function are based on this [documentation](https://documentation.onesignal.com/reference)
 ```
   OneSignalClient client = new OneSignalClient(
                 "YOU APP ID",
